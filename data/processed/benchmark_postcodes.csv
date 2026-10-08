@@ -1,0 +1,55 @@
+﻿postcode,area_name,area_label,municipality,size,rent_latest,n_latest,rent_prev_q,rent_year_ago,rent_5y_ago,chg_yoy_pct,chg_5y_pct,chg_5y_cagr_pct,rent_2025Q4_reported,flag
+00180,Kamppi - Ruoholahti,00180 Kamppi - Ruoholahti,Helsinki,Studio,28.36,321.0,28.47,28.37,26.72,-0.04,6.14,1.2,28.03,
+00180,Kamppi - Ruoholahti,00180 Kamppi - Ruoholahti,Helsinki,One-bedroom,25.1,190.0,24.77,24.46,20.95,2.62,19.81,3.68,23.13,
+00180,Kamppi - Ruoholahti,00180 Kamppi - Ruoholahti,Helsinki,Two-bedroom+,22.36,43.0,21.51,21.51,15.94,3.95,40.28,7.0,20.8,
+00250,Taka-Töölö,00250 Taka-Töölö,Helsinki,Studio,28.65,548.0,28.56,28.61,27.86,0.14,2.84,0.56,28.65,
+00250,Taka-Töölö,00250 Taka-Töölö,Helsinki,One-bedroom,22.0,197.0,21.68,21.52,21.47,2.23,2.47,0.49,18.85,
+00250,Taka-Töölö,00250 Taka-Töölö,Helsinki,Two-bedroom+,21.48,32.0,20.69,20.35,19.56,5.55,9.82,1.89,18.49,
+00530,Kallio,00530 Kallio,Helsinki,Studio,27.13,993.0,27.03,26.77,25.72,1.34,5.48,1.07,26.82,
+00530,Kallio,00530 Kallio,Helsinki,One-bedroom,23.15,388.0,22.78,22.85,21.19,1.31,9.25,1.79,21.31,
+00530,Kallio,00530 Kallio,Helsinki,Two-bedroom+,,,,,,,,,18.95,masked by Statistics Finland
+00500,Sörnäinen,00500 Sörnäinen,Helsinki,Studio,27.74,1163.0,27.69,27.6,26.85,0.51,3.31,0.65,27.73,
+00500,Sörnäinen,00500 Sörnäinen,Helsinki,One-bedroom,22.49,459.0,22.36,22.19,22.09,1.35,1.81,0.36,21.48,
+00500,Sörnäinen,00500 Sörnäinen,Helsinki,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+00200,Lauttasaari,00200 Lauttasaari,Helsinki,Studio,27.09,418.0,27.07,27.02,25.89,0.26,4.63,0.91,26.78,
+00200,Lauttasaari,00200 Lauttasaari,Helsinki,One-bedroom,21.93,156.0,21.64,20.99,20.39,4.48,7.55,1.47,18.92,
+00200,Lauttasaari,00200 Lauttasaari,Helsinki,Two-bedroom+,20.67,50.0,20.16,20.31,18.59,1.77,11.19,2.14,20.61,
+00510,Etu-Vallila - Alppila,00510 Etu-Vallila - Alppila,Helsinki,Studio,27.62,638.0,27.52,27.45,27.02,0.62,2.22,0.44,27.08,
+00510,Etu-Vallila - Alppila,00510 Etu-Vallila - Alppila,Helsinki,One-bedroom,21.69,190.0,21.47,21.49,20.64,0.93,5.09,1.0,20.55,
+00510,Etu-Vallila - Alppila,00510 Etu-Vallila - Alppila,Helsinki,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+00520,Itä-Pasila,00520 Itä-Pasila,Helsinki,Studio,28.8,357.0,28.66,28.81,26.38,-0.03,9.17,1.77,28.8,
+00520,Itä-Pasila,00520 Itä-Pasila,Helsinki,One-bedroom,,,,,,,,,,masked by Statistics Finland
+00520,Itä-Pasila,00520 Itä-Pasila,Helsinki,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+00320,Etelä-Haaga,00320 Etelä-Haaga,Helsinki,Studio,26.04,495.0,25.97,25.98,25.77,0.23,1.05,0.21,25.7,
+00320,Etelä-Haaga,00320 Etelä-Haaga,Helsinki,One-bedroom,19.71,106.0,19.35,19.27,18.92,2.28,4.18,0.82,17.82,
+00320,Etelä-Haaga,00320 Etelä-Haaga,Helsinki,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+00640,Oulunkylä-Patola,00640 Oulunkylä-Patola,Helsinki,Studio,23.76,110.0,24.03,23.45,22.39,1.32,6.12,1.19,23.9,
+00640,Oulunkylä-Patola,00640 Oulunkylä-Patola,Helsinki,One-bedroom,17.27,82.0,17.49,17.11,17.24,0.94,0.17,0.03,16.68,
+00640,Oulunkylä-Patola,00640 Oulunkylä-Patola,Helsinki,Two-bedroom+,,,,16.26,,,,,,masked by Statistics Finland
+00840,Laajasalo,00840 Laajasalo,Helsinki,Studio,23.52,105.0,23.36,23.32,23.16,0.86,1.55,0.31,23.99,
+00840,Laajasalo,00840 Laajasalo,Helsinki,One-bedroom,17.2,40.0,17.21,17.06,16.53,0.82,4.05,0.8,16.87,
+00840,Laajasalo,00840 Laajasalo,Helsinki,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+00420,Kannelmäki,00420 Kannelmäki,Helsinki,Studio,24.26,310.0,24.29,23.96,23.37,1.25,3.81,0.75,24.21,
+00420,Kannelmäki,00420 Kannelmäki,Helsinki,One-bedroom,17.78,283.0,17.8,17.91,17.41,-0.73,2.13,0.42,17.48,
+00420,Kannelmäki,00420 Kannelmäki,Helsinki,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+00920,Myllypuro,00920 Myllypuro,Helsinki,Studio,23.62,80.0,23.99,23.63,25.06,-0.04,-5.75,-1.18,23.59,
+00920,Myllypuro,00920 Myllypuro,Helsinki,One-bedroom,17.82,155.0,17.77,17.93,18.2,-0.61,-2.09,-0.42,17.7,
+00920,Myllypuro,00920 Myllypuro,Helsinki,Two-bedroom+,17.12,75.0,17.11,17.52,16.85,-2.28,1.6,0.32,16.58,
+00940,Kontula - Vesala,00940 Kontula - Vesala,Helsinki,Studio,25.64,585.0,25.73,,23.65,,8.41,1.63,25.34,1y change: below 30 obs or masked in 2024Q2
+00940,Kontula - Vesala,00940 Kontula - Vesala,Helsinki,One-bedroom,18.2,727.0,18.28,18.51,17.7,-1.67,2.82,0.56,17.85,
+00940,Kontula - Vesala,00940 Kontula - Vesala,Helsinki,Two-bedroom+,,,,,16.2,,,,,masked by Statistics Finland
+00970,Mellunmäki,00970 Mellunmäki,Helsinki,Studio,23.37,128.0,23.02,22.59,20.17,3.45,15.87,2.99,22.82,
+00970,Mellunmäki,00970 Mellunmäki,Helsinki,One-bedroom,18.85,245.0,18.96,18.81,16.34,0.21,15.36,2.9,18.63,
+00970,Mellunmäki,00970 Mellunmäki,Helsinki,Two-bedroom+,17.77,113.0,17.72,17.75,15.35,0.11,15.77,2.97,17.55,
+02650,Pohjois-Leppävaara,02650 Pohjois-Leppävaara,Espoo,Studio,22.39,135.0,22.29,22.68,22.27,-1.28,0.54,0.11,22.3,
+02650,Pohjois-Leppävaara,02650 Pohjois-Leppävaara,Espoo,One-bedroom,18.62,175.0,18.43,18.71,18.62,-0.48,0.0,0.0,18.14,
+02650,Pohjois-Leppävaara,02650 Pohjois-Leppävaara,Espoo,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+02600,Etelä-Leppävaara,02600 Etelä-Leppävaara,Espoo,Studio,25.0,505.0,25.03,25.27,24.68,-1.07,1.3,0.26,24.85,
+02600,Etelä-Leppävaara,02600 Etelä-Leppävaara,Espoo,One-bedroom,,,,,,,,,,masked by Statistics Finland
+02600,Etelä-Leppävaara,02600 Etelä-Leppävaara,Espoo,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+01300,Tikkurila,01300 Tikkurila,Vantaa,Studio,24.15,400.0,24.1,24.02,22.87,0.54,5.6,1.1,24.23,
+01300,Tikkurila,01300 Tikkurila,Vantaa,One-bedroom,,,19.02,19.13,,,,,,masked by Statistics Finland
+01300,Tikkurila,01300 Tikkurila,Vantaa,Two-bedroom+,,,,,,,,,,masked by Statistics Finland
+01700,Kivistö,01700 Kivistö,Vantaa,Studio,24.19,282.0,24.28,24.25,24.47,-0.25,-1.14,-0.23,24.1,
+01700,Kivistö,01700 Kivistö,Vantaa,One-bedroom,19.33,132.0,19.36,19.32,19.62,0.05,-1.48,-0.3,18.92,
+01700,Kivistö,01700 Kivistö,Vantaa,Two-bedroom+,18.06,78.0,18.1,18.04,18.23,0.11,-0.93,-0.19,18.02,

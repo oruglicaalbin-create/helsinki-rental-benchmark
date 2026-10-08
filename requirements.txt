@@ -1,0 +1,8 @@
+matplotlib==3.11.2
+numpy==2.5.3
+openpyxl==3.1.5
+pandas==3.0.6
+python-pptx==1.0.2
+requests==2.34.2
+statsmodels==0.15.0
+xlsxwriter==3.2.9

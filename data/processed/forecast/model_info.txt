@@ -1,0 +1,5 @@
+chosen_model: ARIMA(0,1,0)(0,0,0)[4] with drift
+auto_arima: ARIMA(0,1,0) with drift
+n_obs: 42
+R: R version 4.6.1 (2026-06-24 ucrt)
+forecast package: 9.0.2

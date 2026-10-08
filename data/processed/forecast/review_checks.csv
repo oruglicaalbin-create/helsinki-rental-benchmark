@@ -1,0 +1,5 @@
+"model","drift_per_quarter","growth_2025Q2_to_2026Q2_pct","lo95_pct","hi95_pct","holdout_MAPE_pct","AICc"
+"Average EUR/m2, chosen: ARIMA(0,1,0)(0,0,0)[4] with drift",0.119,2.12,-1.6,5.84,0.96,-7.19
+"Average EUR/m2, check: ARIMA(0,1,0) with drift + 2017Q3 level shift",0.097,1.73,-1.09,4.55,0.69,-28.53
+"Index: random walk with drift",0.2488,0.91,-0.02,1.83,0.66,8.56
+"Index: ARIMA(0,2,1)(1,0,0)[4]",NA,0.02,-0.96,1.01,0.36,2.72

@@ -1,0 +1,6 @@
+"check","value","p_value"
+"Ljung-Box, 8 lags",6.7471,0.5641
+"Ljung-Box, 12 lags",10.357,0.5847
+"Shapiro-Wilk normality",0.8298,0
+"Residual mean",4e-04,NA
+"Residual std dev",0.2103,NA

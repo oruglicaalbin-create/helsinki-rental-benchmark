@@ -1,0 +1,9 @@
+"item","value"
+"Residual std dev 2015Q2-2021Q4",0.2519
+"Residual std dev 2022Q1-2025Q2",0.082
+"F ratio (early / late variance)",9.4293
+"F-test p-value",1e-04
+"Recent-sample model: drift per quarter",0.0708
+"Recent-sample model: growth to 2026Q2 %",1.26
+"Recent-sample model: 95% low %",-0.01
+"Recent-sample model: 95% high %",2.54

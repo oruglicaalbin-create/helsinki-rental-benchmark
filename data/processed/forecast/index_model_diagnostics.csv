@@ -1,0 +1,11 @@
+"check","value"
+"ndiffs KPSS",2
+"KPSS p, first difference",0.0118
+"ADF p, first difference",0.3999
+"ADF p, second difference",0.01
+"Ljung-Box p, 8 lags",0.2863
+"Ljung-Box p, 12 lags",0.1286
+"Shapiro-Wilk p",0.0522
+"AICc",2.7166
+"Hold-out MAPE % (ARIMA)",0.36
+"Hold-out MAPE % (naive)",0.02

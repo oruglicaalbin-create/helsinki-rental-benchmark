@@ -1,0 +1,5 @@
+"method","MAPE_pct","RMSE"
+"Chosen model: ARIMA(0,1,0)(0,0,0)[4] with drift",0.96,0.248
+"Naive (last value)",0.46,0.114
+"Random walk with drift",0.96,0.248
+"Seasonal naive",0.85,0.198

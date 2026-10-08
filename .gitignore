@@ -1,0 +1,9 @@
+# Environment and caches
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+
+# Office lock files (created while a file is open)
+~$*

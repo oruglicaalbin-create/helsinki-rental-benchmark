@@ -1,0 +1,6 @@
+"test","null_hypothesis","statistic","p_value"
+"ADF, level","unit root",-1.099,0.911
+"KPSS level-stationary, level","stationary",1.093,0.01
+"KPSS trend-stationary, level","trend-stationary",0.273,0.01
+"ADF, first difference","unit root",-4.032,0.018
+"KPSS level-stationary, first difference","stationary",0.41,0.073
